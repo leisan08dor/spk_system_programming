@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\20.01_pdf_dorofeeva_\20.01_pdf_dorofeeva_\bin\Debug\20.01_pdf_dorofeeva_.exe.config
+C:\Users\User\source\repos\20.01_pdf_dorofeeva_\20.01_pdf_dorofeeva_\bin\Debug\20.01_pdf_dorofeeva_.exe
+C:\Users\User\source\repos\20.01_pdf_dorofeeva_\20.01_pdf_dorofeeva_\bin\Debug\20.01_pdf_dorofeeva_.pdb
+C:\Users\User\source\repos\20.01_pdf_dorofeeva_\20.01_pdf_dorofeeva_\obj\Debug\20.01_pdf_dorofeeva_.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\20.01_pdf_dorofeeva_\20.01_pdf_dorofeeva_\obj\Debug\_20._01_pdf_dorofeeva_.Form1.resources
+C:\Users\User\source\repos\20.01_pdf_dorofeeva_\20.01_pdf_dorofeeva_\obj\Debug\_20._01_pdf_dorofeeva_.Properties.Resources.resources
+C:\Users\User\source\repos\20.01_pdf_dorofeeva_\20.01_pdf_dorofeeva_\obj\Debug\20.01_pdf_dorofeeva_.csproj.GenerateResource.cache
+C:\Users\User\source\repos\20.01_pdf_dorofeeva_\20.01_pdf_dorofeeva_\obj\Debug\20.01_pdf_dorofeeva_.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\20.01_pdf_dorofeeva_\20.01_pdf_dorofeeva_\obj\Debug\20.01_pdf_dorofeeva_.exe
+C:\Users\User\source\repos\20.01_pdf_dorofeeva_\20.01_pdf_dorofeeva_\obj\Debug\20.01_pdf_dorofeeva_.pdb
